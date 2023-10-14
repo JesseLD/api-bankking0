@@ -1,0 +1,6 @@
+AUTOMATED TESTS
+
+JEST
+
+
+express express-validator sequelize mysql2 cors dotenv jsonwebtoken bcryptjs uuid
